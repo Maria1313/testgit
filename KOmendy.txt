@@ -1,0 +1,2 @@
+git add nazwa_pliku / git add . - dodanie do śledzenia
+rm --cached nazwa_pliku - nieśledzenie
