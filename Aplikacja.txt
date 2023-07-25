@@ -6,6 +6,9 @@
 
 public void logowanieGoogle() {
         System.out.println("Podaj użytkownika google");
+    }
+
+public void logowanieMicrosoft() {
+        System.out.println("Podaj użytkownika Microsoft");
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }

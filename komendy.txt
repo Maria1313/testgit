@@ -1,0 +1,20 @@
+git add nazwa_pliku / git add . - dodanie do śledzenia
+rm --cached nazwa_pliku - nieśledzenie
+
+commit -m "opis "- żeby zapisaćw repo, czyli śledzenie historii zmian
+
+git restore - przywrócenie poprzedniej wersji pliku/ usunięcie wprowadzonych zmian
+
+git diff nazwa_pliku - sprawdzenie zmiany w pliku
+
+git commit -a -m "" - szybkie dodanie do repo 
+
+git restore --staged nazwa_pliku - cofnięcie do roboczycg
+
+git touch .gitignore - plik z nazwami plików do zignorowania
+
+git branch nazwa - tworzenie gałęzi
+
+git branch - sprawdzenie gałęzi
+
+git checkout nazwa - zmianagałęzi
