@@ -18,3 +18,9 @@ git branch nazwa - tworzenie gałęzi
 git branch - sprawdzenie gałęzi
 
 git checkout nazwa - zmianagałęzi
+
+git stash - zapisaniew schowku
+
+git stash apply - dodanie ze schowka
+
+git stash pop - usunięcie ze schowka

@@ -18,3 +18,7 @@ public void logowanieGoogle() {
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
+ public void przypomnij hasło() {
+        System.out.println("Przypomnij hasło");
+       
+    }
